@@ -564,7 +564,8 @@
 :nonce 1761037008018
 :isComplete true}}
 :block/updated-at 1761037009993} 
-{:block/properties 
+{:block/created-at 1761037579418
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -581,9 +582,9 @@
 :noFill true
 :point [1003.1599999999997 712.9399999999998]
 :parentId "68f74781-6d30-4136-827f-136b5ffc69d2"
-:nonce 1761037008551
+:nonce 1761037008552
 :isComplete true}}
-:block/updated-at 1761037009994})
+:block/updated-at 1761037579418})
 :pages (
 {:block/uuid #uuid "68f74781-6d30-4136-827f-136b5ffc69d2"
 :block/properties 
@@ -600,7 +601,7 @@
 :src "../assets/image_1761036877515_0.png"
 :size [627 511]}]
 :shapes-index ("92c81b10-ae5b-11f0-93f1-63eedbaefdf0" "bb5d5b80-ae5b-11f0-93f1-63eedbaefdf0" "c987e9f0-ae5b-11f0-93f1-63eedbaefdf0" "cd0d1910-ae5b-11f0-93f1-63eedbaefdf0" "cfc8b6a0-ae5b-11f0-93f1-63eedbaefdf0" "d0dd5af0-ae5b-11f0-93f1-63eedbaefdf0" "d14dd000-ae5b-11f0-93f1-63eedbaefdf0" "d45829d0-ae5b-11f0-93f1-63eedbaefdf0" "d4f63e90-ae5b-11f0-93f1-63eedbaefdf0" "d55d64d0-ae5b-11f0-93f1-63eedbaefdf0" "d59034a0-ae5b-11f0-93f1-63eedbaefdf0" "d5e22530-ae5b-11f0-93f1-63eedbaefdf0" "d6595100-ae5b-11f0-93f1-63eedbaefdf0" "d7d590c0-ae5b-11f0-93f1-63eedbaefdf0" "d85ce930-ae5b-11f0-93f1-63eedbaefdf0" "da9f8630-ae5b-11f0-93f1-63eedbaefdf0" "db344c20-ae5b-11f0-93f1-63eedbaefdf0" "db759ae0-ae5b-11f0-93f1-63eedbaefdf0" "dca197c0-ae5b-11f0-93f1-63eedbaefdf0" "dd18c390-ae5b-11f0-93f1-63eedbaefdf0" "dd248360-ae5b-11f0-93f1-63eedbaefdf0" "dd745110-ae5b-11f0-93f1-63eedbaefdf0" "ddc09c50-ae5b-11f0-93f1-63eedbaefdf0" "df6c5080-ae5b-11f0-93f1-63eedbaefdf0" "dfe18080-ae5b-11f0-93f1-63eedbaefdf0" "e0114310-ae5b-11f0-93f1-63eedbaefdf0" "e07d4b50-ae5b-11f0-93f1-63eedbaefdf0" "e0c46670-ae5b-11f0-93f1-63eedbaefdf0")}}
-:block/updated-at 1761037009993
+:block/updated-at 1761037621197
 :block/created-at 1761036161720
 :block/type "whiteboard"
 :block/name "dgt"
