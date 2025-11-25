@@ -1,10 +1,10 @@
 {:blocks (
-{:block/created-at 1764065979910
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 0
+:index 1
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -19,13 +19,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064019387
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 1
+:index 2
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -40,13 +40,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064020834
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 2
+:index 3
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -61,13 +61,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064024402
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 3
+:index 4
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -82,13 +82,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064025359
 :isComplete false}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009254
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 4
+:index 5
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -103,13 +103,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064044055
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009254} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 5
+:index 6
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -124,13 +124,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064044912
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 6
+:index 7
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -145,13 +145,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064045973
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 7
+:index 8
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -166,13 +166,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064046995
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 8
+:index 9
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -187,13 +187,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064047870
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 9
+:index 10
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -208,13 +208,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064048536
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 10
+:index 11
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -229,13 +229,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064049192
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 11
+:index 12
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -250,13 +250,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064049535
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 12
+:index 13
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -271,13 +271,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064049990
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 13
+:index 14
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -292,13 +292,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064054689
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 14
+:index 15
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -313,13 +313,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064055453
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979908
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 15
+:index 16
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -334,13 +334,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064056397
 :isComplete true}}
-:block/updated-at 1764065979908} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 17
+:index 18
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -355,13 +355,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064057431
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 16
+:index 17
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -376,13 +376,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064057059
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 18
+:index 19
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -397,13 +397,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064057817
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 19
+:index 20
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -418,13 +418,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064058660
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979908
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 20
+:index 21
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -439,13 +439,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064059300
 :isComplete true}}
-:block/updated-at 1764065979908} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 21
+:index 22
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -460,13 +460,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064059793
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 22
+:index 23
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -481,13 +481,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064105979
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 23
+:index 24
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -502,13 +502,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064106849
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 24
+:index 25
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -523,13 +523,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064107974
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 25
+:index 26
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -544,13 +544,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064109128
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 26
+:index 27
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -565,13 +565,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064109920
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 27
+:index 28
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -586,13 +586,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064110703
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 28
+:index 29
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -607,13 +607,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064111805
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 29
+:index 30
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -628,13 +628,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064123199
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 30
+:index 31
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -649,13 +649,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064186183
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 31
+:index 32
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -670,13 +670,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064229753
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 32
+:index 33
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -691,13 +691,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064230489
 :isComplete false}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 33
+:index 34
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -712,13 +712,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064235065
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 34
+:index 35
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -733,13 +733,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064236525
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 35
+:index 36
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -754,13 +754,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064237693
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 36
+:index 37
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -775,13 +775,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064238486
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 37
+:index 38
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -796,13 +796,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064240741
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 38
+:index 39
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -817,13 +817,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064241601
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 39
+:index 40
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -838,13 +838,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064243254
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009254
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 40
+:index 41
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -859,13 +859,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064243640
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009254} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 41
+:index 42
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -880,13 +880,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064245521
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 43
+:index 44
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -901,13 +901,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064273792
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 42
+:index 43
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -922,13 +922,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064273440
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 44
+:index 45
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -943,13 +943,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064274436
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 45
+:index 46
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -964,13 +964,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064275003
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 47
+:index 48
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -985,13 +985,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064275799
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 46
+:index 47
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1006,13 +1006,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064275485
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 49
+:index 50
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1027,13 +1027,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064276616
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 48
+:index 49
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1048,13 +1048,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064276293
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 50
+:index 51
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1069,13 +1069,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064277508
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 51
+:index 52
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1104,13 +1104,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064307132
 :italic false}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 52
+:index 53
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1139,13 +1139,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064311505
 :italic false}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 53
+:index 54
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1174,13 +1174,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064314331
 :italic false}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 54
+:index 55
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1209,13 +1209,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064316654
 :italic false}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 55
+:index 56
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1244,13 +1244,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064437676
 :italic false}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 56
+:index 57
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1265,13 +1265,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064444248
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979908
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 57
+:index 58
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1286,13 +1286,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064446398
 :isComplete true}}
-:block/updated-at 1764065979908} 
-{:block/created-at 1764065979908
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 58
+:index 59
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1307,13 +1307,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064447539
 :isComplete true}}
-:block/updated-at 1764065979908} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 59
+:index 60
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1328,13 +1328,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064448364
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 60
+:index 61
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1349,13 +1349,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064451473
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 61
+:index 62
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1370,13 +1370,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064455777
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 62
+:index 63
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1391,13 +1391,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064456379
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 63
+:index 64
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1412,13 +1412,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064460097
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 64
+:index 65
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1433,13 +1433,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064461131
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 65
+:index 66
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1454,13 +1454,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064464059
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 66
+:index 67
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1475,13 +1475,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064465161
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 69
+:index 70
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1496,13 +1496,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064469071
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 68
+:index 69
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1517,13 +1517,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064468815
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 67
+:index 68
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1538,13 +1538,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064466313
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 70
+:index 71
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1559,13 +1559,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064474573
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 71
+:index 72
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1580,13 +1580,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064475275
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 72
+:index 73
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1615,13 +1615,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064487621
 :italic false}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 73
+:index 74
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1636,13 +1636,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064494051
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 74
+:index 75
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1657,13 +1657,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064494930
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 75
+:index 76
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1678,13 +1678,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064498090
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 76
+:index 77
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1699,13 +1699,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064498589
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 77
+:index 78
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1720,13 +1720,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064502492
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 78
+:index 79
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1741,13 +1741,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064503100
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 79
+:index 80
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1762,13 +1762,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064526623
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 80
+:index 81
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1783,13 +1783,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064527628
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 81
+:index 82
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1804,13 +1804,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064529421
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 82
+:index 83
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1825,13 +1825,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064530746
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 83
+:index 84
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1846,13 +1846,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064578815
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 84
+:index 85
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1867,13 +1867,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064634297
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 85
+:index 86
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1888,13 +1888,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064637738
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 86
+:index 87
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1909,13 +1909,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064639061
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 87
+:index 88
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1930,13 +1930,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064648074
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 88
+:index 89
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1965,13 +1965,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064652685
 :italic false}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 89
+:index 90
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -1986,13 +1986,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064666438
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 90
+:index 91
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2007,13 +2007,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064670689
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 91
+:index 92
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2028,13 +2028,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064671280
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 92
+:index 93
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2049,13 +2049,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064673798
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 93
+:index 94
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2070,13 +2070,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064674751
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 94
+:index 95
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2091,13 +2091,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064676458
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 95
+:index 96
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2112,13 +2112,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064676767
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 96
+:index 97
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2147,13 +2147,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064681137
 :italic false}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979908
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 97
+:index 98
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2168,13 +2168,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064683531
 :isComplete true}}
-:block/updated-at 1764065979908} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 98
+:index 99
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2189,13 +2189,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064685033
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009254
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 99
+:index 100
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2210,13 +2210,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064685770
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009254} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 100
+:index 101
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2231,13 +2231,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064742029
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 101
+:index 102
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2252,13 +2252,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064742869
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 102
+:index 103
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2273,13 +2273,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064747570
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 103
+:index 104
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2294,13 +2294,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064751050
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 104
+:index 105
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2315,13 +2315,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064751876
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 105
+:index 106
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2336,13 +2336,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064753240
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009254
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 106
+:index 107
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2357,13 +2357,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064754682
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009254} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 107
+:index 108
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2378,13 +2378,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064757281
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 108
+:index 109
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2399,13 +2399,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064763055
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 109
+:index 110
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2420,13 +2420,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064764558
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 110
+:index 111
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2441,13 +2441,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064767893
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 111
+:index 112
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2462,13 +2462,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064770828
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009253
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 112
+:index 113
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2483,13 +2483,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064771307
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009253} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 113
+:index 114
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2504,13 +2504,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064773917
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 114
+:index 115
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2525,13 +2525,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064774352
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 115
+:index 116
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2560,13 +2560,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064836820
 :italic false}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 116
+:index 117
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2581,13 +2581,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064843631
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 117
+:index 118
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2602,13 +2602,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064845233
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 118
+:index 119
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2623,13 +2623,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064846068
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 119
+:index 120
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2644,13 +2644,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064848523
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 120
+:index 121
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2665,13 +2665,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064849004
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 121
+:index 122
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2700,13 +2700,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064899595
 :italic false}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 122
+:index 123
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2721,13 +2721,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064905306
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 124
+:index 125
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2742,13 +2742,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064906291
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 123
+:index 124
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2763,13 +2763,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064905842
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 125
+:index 126
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2784,13 +2784,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064908870
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 126
+:index 127
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2805,13 +2805,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064909415
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 127
+:index 128
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2840,13 +2840,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064915270
 :italic false}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 129
+:index 130
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2861,13 +2861,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064919661
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 128
+:index 129
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2882,13 +2882,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064917758
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 130
+:index 131
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2903,13 +2903,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064919935
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 131
+:index 132
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2924,13 +2924,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064921044
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 132
+:index 133
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -2945,13 +2945,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064921496
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 133
+:index 134
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -2966,13 +2966,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064928931
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "green"
-:index 134
+:index 135
 :scale [1 1]
 :scaleLevel "md"
 :fill "green"
@@ -2987,13 +2987,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764064949146
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 135
+:index 136
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -3008,13 +3008,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065007589
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "yellow"
-:index 136
+:index 137
 :scale [1 1]
 :scaleLevel "md"
 :fill "yellow"
@@ -3029,13 +3029,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065012964
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "blue"
-:index 137
+:index 138
 :scale [1 1]
 :scaleLevel "md"
 :fill "blue"
@@ -3050,13 +3050,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065053891
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "blue"
-:index 138
+:index 139
 :scale [1 1]
 :scaleLevel "md"
 :fill "blue"
@@ -3071,13 +3071,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065068968
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "blue"
-:index 139
+:index 140
 :scale [1 1]
 :scaleLevel "md"
 :fill "blue"
@@ -3092,13 +3092,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065083795
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "blue"
-:index 140
+:index 141
 :scale [1 1]
 :scaleLevel "md"
 :fill "blue"
@@ -3113,13 +3113,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065092538
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 141
+:index 142
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3134,13 +3134,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065125376
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 142
+:index 143
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3155,13 +3155,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065131021
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 143
+:index 144
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3176,13 +3176,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065148612
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 144
+:index 145
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3197,13 +3197,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065150708
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 145
+:index 146
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3218,13 +3218,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065151267
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 146
+:index 147
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3239,13 +3239,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065153187
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009254
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 147
+:index 148
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3260,13 +3260,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065154066
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009254} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 148
+:index 149
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3281,13 +3281,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065157181
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 149
+:index 150
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3302,13 +3302,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065160279
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 150
+:index 151
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3323,13 +3323,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065163279
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 151
+:index 152
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3344,13 +3344,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065164387
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 152
+:index 153
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3365,13 +3365,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065168317
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 153
+:index 154
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3386,13 +3386,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065171028
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 154
+:index 155
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3407,13 +3407,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065171693
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 155
+:index 156
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3428,13 +3428,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065174185
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979908
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 156
+:index 157
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3449,13 +3449,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065174892
 :isComplete true}}
-:block/updated-at 1764065979908} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 157
+:index 158
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3470,13 +3470,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065175265
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 158
+:index 159
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3491,13 +3491,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065176587
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 159
+:index 160
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -3526,13 +3526,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065195493
 :italic false}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 160
+:index 161
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -3547,13 +3547,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065197999
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979908
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 161
+:index 162
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -3568,13 +3568,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065198946
 :isComplete true}}
-:block/updated-at 1764065979908} 
-{:block/created-at 1764065979908
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009255
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 162
+:index 163
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -3589,13 +3589,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065201535
 :isComplete true}}
-:block/updated-at 1764065979908} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009255} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 163
+:index 164
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -3610,13 +3610,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065202151
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "purple"
-:index 164
+:index 165
 :scale [1 1]
 :scaleLevel "md"
 :fill "purple"
@@ -3631,13 +3631,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065215147
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 165
+:index 166
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -3652,13 +3652,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065233841
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 166
+:index 167
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -3673,13 +3673,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065498244
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009254
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 167
+:index 168
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -3694,13 +3694,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065500738
 :isComplete true}}
-:block/updated-at 1764065979911} 
-{:block/created-at 1764065979910
+:block/updated-at 1764066009254} 
+{:block/created-at 1764066009256
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
-:index 168
+:index 169
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -3715,13 +3715,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065501258
 :isComplete true}}
-:block/updated-at 1764065979910} 
-{:block/created-at 1764065979908
+:block/updated-at 1764066009256} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "gray"
-:index 169
+:index 170
 :scale [1 1]
 :scaleLevel "md"
 :fill "gray"
@@ -3736,13 +3736,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065528489
 :isComplete true}}
-:block/updated-at 1764065979908} 
-{:block/created-at 1764065979909
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009258
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "gray"
-:index 170
+:index 171
 :scale [1 1]
 :scaleLevel "md"
 :fill "gray"
@@ -3757,13 +3757,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065553537
 :isComplete true}}
-:block/updated-at 1764065979909} 
-{:block/created-at 1764065979912
+:block/updated-at 1764066009258} 
+{:block/created-at 1764066009257
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "gray"
-:index 171
+:index 172
 :scale [1 1]
 :scaleLevel "md"
 :fill "gray"
@@ -3778,13 +3778,13 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065554304
 :isComplete true}}
-:block/updated-at 1764065979912} 
-{:block/created-at 1764065979911
+:block/updated-at 1764066009257} 
+{:block/created-at 1764066009254
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke "red"
-:index 172
+:index 173
 :scale [1 1]
 :scaleLevel "md"
 :fill "red"
@@ -3802,7 +3802,31 @@
 :parentId "69257b00-796a-463c-ad78-f22c7954929c"
 :nonce 1764065570832
 :italic false}}
-:block/updated-at 1764065979911})
+:block/updated-at 1764066009254} 
+{:block/created-at 1764066044825
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill "green"
+:type "ellipse"
+:size [664 664]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "H.A.L\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGPS, Radio, Graphics\n\n\n\n\n\n\n\n\n\n\n\n"
+:id "48fa3c40-c9e8-11f0-8215-bb88152ee1a7"
+:fontWeight 400
+:noFill false
+:point [3776 1304]
+:fontSize 20
+:parentId "69257b00-796a-463c-ad78-f22c7954929c"
+:nonce 1764065995296
+:italic false}}
+:block/updated-at 1764066044825})
 :pages (
 {:block/uuid #uuid "69257b00-796a-463c-ad78-f22c7954929c"
 :block/properties 
@@ -3814,8 +3838,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("afd841f0-c9e3-11f0-8215-bb88152ee1a7" "b09d8dc0-c9e3-11f0-8215-bb88152ee1a7" "b2d79f40-c9e3-11f0-8215-bb88152ee1a7" "b367f860-c9e3-11f0-8215-bb88152ee1a7" "be8e95a0-c9e3-11f0-8215-bb88152ee1a7" "bf110c10-c9e3-11f0-8215-bb88152ee1a7" "bfb191d0-c9e3-11f0-8215-bb88152ee1a7" "c04fa690-c9e3-11f0-8215-bb88152ee1a7" "c0d466f0-c9e3-11f0-8215-bb88152ee1a7" "c13a2da0-c9e3-11f0-8215-bb88152ee1a7" "c1a09090-c9e3-11f0-8215-bb88152ee1a7" "c1d50e10-c9e3-11f0-8215-bb88152ee1a7" "c21858a0-c9e3-11f0-8215-bb88152ee1a7" "c4e4bf10-c9e3-11f0-8215-bb88152ee1a7" "c55a1620-c9e3-11f0-8215-bb88152ee1a7" "c5e9d300-c9e3-11f0-8215-bb88152ee1a7" "c6512050-c9e3-11f0-8215-bb88152ee1a7" "c68a0aa0-c9e3-11f0-8215-bb88152ee1a7" "c6c14740-c9e3-11f0-8215-bb88152ee1a7" "c74432e0-c9e3-11f0-8215-bb88152ee1a7" "c7a62900-c9e3-11f0-8215-bb88152ee1a7" "c7f29b50-c9e3-11f0-8215-bb88152ee1a7" "e3763760-c9e3-11f0-8215-bb88152ee1a7" "e3fb45e0-c9e3-11f0-8215-bb88152ee1a7" "e4a4cc50-c9e3-11f0-8215-bb88152ee1a7" "e5575370-c9e3-11f0-8215-bb88152ee1a7" "e5d0c930-c9e3-11f0-8215-bb88152ee1a7" "e6462040-c9e3-11f0-8215-bb88152ee1a7" "e6e609c0-c9e3-11f0-8215-bb88152ee1a7" "edbde650-c9e3-11f0-8215-bb88152ee1a7" "134809a0-c9e4-11f0-8215-bb88152ee1a7" "2d40bff0-c9e4-11f0-8215-bb88152ee1a7" "2da35250-c9e4-11f0-8215-bb88152ee1a7" "30642000-c9e4-11f0-8215-bb88152ee1a7" "31475410-c9e4-11f0-8215-bb88152ee1a7" "31fb88e0-c9e4-11f0-8215-bb88152ee1a7" "32656e40-c9e4-11f0-8215-bb88152ee1a7" "33cced80-c9e4-11f0-8215-bb88152ee1a7" "34441950-c9e4-11f0-8215-bb88152ee1a7" "354d4bf0-c9e4-11f0-8215-bb88152ee1a7" "357d83b0-c9e4-11f0-8215-bb88152ee1a7" "36a6c170-c9e4-11f0-8215-bb88152ee1a7" "474a3f20-c9e4-11f0-8215-bb88152ee1a7" "477d3600-c9e4-11f0-8215-bb88152ee1a7" "47e08bb0-c9e4-11f0-8215-bb88152ee1a7" "48371020-c9e4-11f0-8215-bb88152ee1a7" "48827100-c9e4-11f0-8215-bb88152ee1a7" "48b25aa0-c9e4-11f0-8215-bb88152ee1a7" "48fde290-c9e4-11f0-8215-bb88152ee1a7" "492d7e10-c9e4-11f0-8215-bb88152ee1a7" "49b01b90-c9e4-11f0-8215-bb88152ee1a7" "5b5af722-c9e4-11f0-8215-bb88152ee1a7" "5df7e922-c9e4-11f0-8215-bb88152ee1a7" "5fa7e311-c9e4-11f0-8215-bb88152ee1a7" "610a5942-c9e4-11f0-8215-bb88152ee1a7" "a92bc5b2-c9e4-11f0-8215-bb88152ee1a7" "ad0f1a60-c9e4-11f0-8215-bb88152ee1a7" "ae60eec0-c9e4-11f0-8215-bb88152ee1a7" "af0f3020-c9e4-11f0-8215-bb88152ee1a7" "af8a7aa0-c9e4-11f0-8215-bb88152ee1a7" "b1491a90-c9e4-11f0-8215-bb88152ee1a7" "b3f83500-c9e4-11f0-8215-bb88152ee1a7" "b453e990-c9e4-11f0-8215-bb88152ee1a7" "b6874450-c9e4-11f0-8215-bb88152ee1a7" "b715a1a0-c9e4-11f0-8215-bb88152ee1a7" "b8e69110-c9e4-11f0-8215-bb88152ee1a7" "b98c46f0-c9e4-11f0-8215-bb88152ee1a7" "ba2c0960-c9e4-11f0-8215-bb88152ee1a7" "bbbf2c80-c9e4-11f0-8215-bb88152ee1a7" "bbe419a0-c9e4-11f0-8215-bb88152ee1a7" "bf2bca90-c9e4-11f0-8215-bb88152ee1a7" "bf8d99a0-c9e4-11f0-8215-bb88152ee1a7" "c6eeca72-c9e4-11f0-8215-bb88152ee1a7" "cac5ea20-c9e4-11f0-8215-bb88152ee1a7" "cb4468f0-c9e4-11f0-8215-bb88152ee1a7" "cd308180-c9e4-11f0-8215-bb88152ee1a7" "cd7c5790-c9e4-11f0-8215-bb88152ee1a7" "cfcfbd70-c9e4-11f0-8215-bb88152ee1a7" "d02c3550-c9e4-11f0-8215-bb88152ee1a7" "de3001e0-c9e4-11f0-8215-bb88152ee1a7" "dec87150-c9e4-11f0-8215-bb88152ee1a7" "dfd91e00-c9e4-11f0-8215-bb88152ee1a7" "e0a45d40-c9e4-11f0-8215-bb88152ee1a7" "fd3a7ac0-c9e4-11f0-8215-bb88152ee1a7" "1e49eb60-c9e5-11f0-8215-bb88152ee1a7" "206af6a0-c9e5-11f0-8215-bb88152ee1a7" "21323e40-c9e5-11f0-8215-bb88152ee1a7" "268b9120-c9e5-11f0-8215-bb88152ee1a7" "2952ee82-c9e5-11f0-8215-bb88152ee1a7" "316742b0-c9e5-11f0-8215-bb88152ee1a7" "3411c940-c9e5-11f0-8215-bb88152ee1a7" "345b2e50-c9e5-11f0-8215-bb88152ee1a7" "35ebe070-c9e5-11f0-8215-bb88152ee1a7" "367d23f0-c9e5-11f0-8215-bb88152ee1a7" "37819ba0-c9e5-11f0-8215-bb88152ee1a7" "37a920d0-c9e5-11f0-8215-bb88152ee1a7" "3a4af4d2-c9e5-11f0-8215-bb88152ee1a7" "3bb1d7d0-c9e5-11f0-8215-bb88152ee1a7" "3c9bc2a0-c9e5-11f0-8215-bb88152ee1a7" "3d030ff0-c9e5-11f0-8215-bb88152ee1a7" "5e9719e0-c9e5-11f0-8215-bb88152ee1a7" "5f025ed0-c9e5-11f0-8215-bb88152ee1a7" "61cca260-c9e5-11f0-8215-bb88152ee1a7" "63f74a90-c9e5-11f0-8215-bb88152ee1a7" "6470e760-c9e5-11f0-8215-bb88152ee1a7" "653f0cd0-c9e5-11f0-8215-bb88152ee1a7" "661a0380-c9e5-11f0-8215-bb88152ee1a7" "67a07c70-c9e5-11f0-8215-bb88152ee1a7" "6b194f80-c9e5-11f0-8215-bb88152ee1a7" "6bee52c0-c9e5-11f0-8215-bb88152ee1a7" "6df67ed0-c9e5-11f0-8215-bb88152ee1a7" "6fc12cb0-c9e5-11f0-8215-bb88152ee1a7" "700a1c90-c9e5-11f0-8215-bb88152ee1a7" "7198d2e0-c9e5-11f0-8215-bb88152ee1a7" "71db3310-c9e5-11f0-8215-bb88152ee1a7" "97153a92-c9e5-11f0-8215-bb88152ee1a7" "9b20fed0-c9e5-11f0-8215-bb88152ee1a7" "9c183010-c9e5-11f0-8215-bb88152ee1a7" "9c887e10-c9e5-11f0-8215-bb88152ee1a7" "9e102f80-c9e5-11f0-8215-bb88152ee1a7" "9e59bba0-c9e5-11f0-8215-bb88152ee1a7" "bc803d22-c9e5-11f0-8215-bb88152ee1a7" "bfe7d220-c9e5-11f0-8215-bb88152ee1a7" "c03afb30-c9e5-11f0-8215-bb88152ee1a7" "c06dcb00-c9e5-11f0-8215-bb88152ee1a7" "c2092b80-c9e5-11f0-8215-bb88152ee1a7" "c2599570-c9e5-11f0-8215-bb88152ee1a7" "c5d99472-c9e5-11f0-8215-bb88152ee1a7" "c7475540-c9e5-11f0-8215-bb88152ee1a7" "c8785b30-c9e5-11f0-8215-bb88152ee1a7" "c89afe60-c9e5-11f0-8215-bb88152ee1a7" "c94b62a0-c9e5-11f0-8215-bb88152ee1a7" "c98b9ff0-c9e5-11f0-8215-bb88152ee1a7" "cd947e00-c9e5-11f0-8215-bb88152ee1a7" "d9ab6eb0-c9e5-11f0-8215-bb88152ee1a7" "fcdb0030-c9e5-11f0-8215-bb88152ee1a7" "ff5cf020-c9e5-11f0-8215-bb88152ee1a7" "17fad160-c9e6-11f0-8215-bb88152ee1a7" "21394db0-c9e6-11f0-8215-bb88152ee1a7" "2a029a00-c9e6-11f0-8215-bb88152ee1a7" "2f58b890-c9e6-11f0-8215-bb88152ee1a7" "42ff3d10-c9e6-11f0-8215-bb88152ee1a7" "466a5480-c9e6-11f0-8215-bb88152ee1a7" "50e06670-c9e6-11f0-8215-bb88152ee1a7" "522eb860-c9e6-11f0-8215-bb88152ee1a7" "52786b90-c9e6-11f0-8215-bb88152ee1a7" "53a8d540-c9e6-11f0-8215-bb88152ee1a7" "54192340-c9e6-11f0-8215-bb88152ee1a7" "560a1dd0-c9e6-11f0-8215-bb88152ee1a7" "57cd9fc0-c9e6-11f0-8215-bb88152ee1a7" "59ac98f0-c9e6-11f0-8215-bb88152ee1a7" "5a4ca980-c9e6-11f0-8215-bb88152ee1a7" "5c9ba290-c9e6-11f0-8215-bb88152ee1a7" "5e4a3cf0-c9e6-11f0-8215-bb88152ee1a7" "5ea3a790-c9e6-11f0-8215-bb88152ee1a7" "60290f10-c9e6-11f0-8215-bb88152ee1a7" "6099ab30-c9e6-11f0-8215-bb88152ee1a7" "60ce28b0-c9e6-11f0-8215-bb88152ee1a7" "6180fdf0-c9e6-11f0-8215-bb88152ee1a7" "6cdd5130-c9e6-11f0-8215-bb88152ee1a7" "6e5cec50-c9e6-11f0-8215-bb88152ee1a7" "6edd18d0-c9e6-11f0-8215-bb88152ee1a7" "7079d8e0-c9e6-11f0-8215-bb88152ee1a7" "70d34380-c9e6-11f0-8215-bb88152ee1a7" "784193b0-c9e6-11f0-8215-bb88152ee1a7" "83adec80-c9e6-11f0-8215-bb88152ee1a7" "21412070-c9e7-11f0-8215-bb88152ee1a7" "22d04bf0-c9e7-11f0-8215-bb88152ee1a7" "231d5a80-c9e7-11f0-8215-bb88152ee1a7" "33322cc0-c9e7-11f0-8215-bb88152ee1a7" "4246cd10-c9e7-11f0-8215-bb88152ee1a7" "42bbaef0-c9e7-11f0-8215-bb88152ee1a7" "4c349c30-c9e7-11f0-8215-bb88152ee1a7")}}
-:block/updated-at 1764065980432
+:shapes-index ("48fa3c40-c9e8-11f0-8215-bb88152ee1a7" "afd841f0-c9e3-11f0-8215-bb88152ee1a7" "b09d8dc0-c9e3-11f0-8215-bb88152ee1a7" "b2d79f40-c9e3-11f0-8215-bb88152ee1a7" "b367f860-c9e3-11f0-8215-bb88152ee1a7" "be8e95a0-c9e3-11f0-8215-bb88152ee1a7" "bf110c10-c9e3-11f0-8215-bb88152ee1a7" "bfb191d0-c9e3-11f0-8215-bb88152ee1a7" "c04fa690-c9e3-11f0-8215-bb88152ee1a7" "c0d466f0-c9e3-11f0-8215-bb88152ee1a7" "c13a2da0-c9e3-11f0-8215-bb88152ee1a7" "c1a09090-c9e3-11f0-8215-bb88152ee1a7" "c1d50e10-c9e3-11f0-8215-bb88152ee1a7" "c21858a0-c9e3-11f0-8215-bb88152ee1a7" "c4e4bf10-c9e3-11f0-8215-bb88152ee1a7" "c55a1620-c9e3-11f0-8215-bb88152ee1a7" "c5e9d300-c9e3-11f0-8215-bb88152ee1a7" "c6512050-c9e3-11f0-8215-bb88152ee1a7" "c68a0aa0-c9e3-11f0-8215-bb88152ee1a7" "c6c14740-c9e3-11f0-8215-bb88152ee1a7" "c74432e0-c9e3-11f0-8215-bb88152ee1a7" "c7a62900-c9e3-11f0-8215-bb88152ee1a7" "c7f29b50-c9e3-11f0-8215-bb88152ee1a7" "e3763760-c9e3-11f0-8215-bb88152ee1a7" "e3fb45e0-c9e3-11f0-8215-bb88152ee1a7" "e4a4cc50-c9e3-11f0-8215-bb88152ee1a7" "e5575370-c9e3-11f0-8215-bb88152ee1a7" "e5d0c930-c9e3-11f0-8215-bb88152ee1a7" "e6462040-c9e3-11f0-8215-bb88152ee1a7" "e6e609c0-c9e3-11f0-8215-bb88152ee1a7" "edbde650-c9e3-11f0-8215-bb88152ee1a7" "134809a0-c9e4-11f0-8215-bb88152ee1a7" "2d40bff0-c9e4-11f0-8215-bb88152ee1a7" "2da35250-c9e4-11f0-8215-bb88152ee1a7" "30642000-c9e4-11f0-8215-bb88152ee1a7" "31475410-c9e4-11f0-8215-bb88152ee1a7" "31fb88e0-c9e4-11f0-8215-bb88152ee1a7" "32656e40-c9e4-11f0-8215-bb88152ee1a7" "33cced80-c9e4-11f0-8215-bb88152ee1a7" "34441950-c9e4-11f0-8215-bb88152ee1a7" "354d4bf0-c9e4-11f0-8215-bb88152ee1a7" "357d83b0-c9e4-11f0-8215-bb88152ee1a7" "36a6c170-c9e4-11f0-8215-bb88152ee1a7" "474a3f20-c9e4-11f0-8215-bb88152ee1a7" "477d3600-c9e4-11f0-8215-bb88152ee1a7" "47e08bb0-c9e4-11f0-8215-bb88152ee1a7" "48371020-c9e4-11f0-8215-bb88152ee1a7" "48827100-c9e4-11f0-8215-bb88152ee1a7" "48b25aa0-c9e4-11f0-8215-bb88152ee1a7" "48fde290-c9e4-11f0-8215-bb88152ee1a7" "492d7e10-c9e4-11f0-8215-bb88152ee1a7" "49b01b90-c9e4-11f0-8215-bb88152ee1a7" "5b5af722-c9e4-11f0-8215-bb88152ee1a7" "5df7e922-c9e4-11f0-8215-bb88152ee1a7" "5fa7e311-c9e4-11f0-8215-bb88152ee1a7" "610a5942-c9e4-11f0-8215-bb88152ee1a7" "a92bc5b2-c9e4-11f0-8215-bb88152ee1a7" "ad0f1a60-c9e4-11f0-8215-bb88152ee1a7" "ae60eec0-c9e4-11f0-8215-bb88152ee1a7" "af0f3020-c9e4-11f0-8215-bb88152ee1a7" "af8a7aa0-c9e4-11f0-8215-bb88152ee1a7" "b1491a90-c9e4-11f0-8215-bb88152ee1a7" "b3f83500-c9e4-11f0-8215-bb88152ee1a7" "b453e990-c9e4-11f0-8215-bb88152ee1a7" "b6874450-c9e4-11f0-8215-bb88152ee1a7" "b715a1a0-c9e4-11f0-8215-bb88152ee1a7" "b8e69110-c9e4-11f0-8215-bb88152ee1a7" "b98c46f0-c9e4-11f0-8215-bb88152ee1a7" "ba2c0960-c9e4-11f0-8215-bb88152ee1a7" "bbbf2c80-c9e4-11f0-8215-bb88152ee1a7" "bbe419a0-c9e4-11f0-8215-bb88152ee1a7" "bf2bca90-c9e4-11f0-8215-bb88152ee1a7" "bf8d99a0-c9e4-11f0-8215-bb88152ee1a7" "c6eeca72-c9e4-11f0-8215-bb88152ee1a7" "cac5ea20-c9e4-11f0-8215-bb88152ee1a7" "cb4468f0-c9e4-11f0-8215-bb88152ee1a7" "cd308180-c9e4-11f0-8215-bb88152ee1a7" "cd7c5790-c9e4-11f0-8215-bb88152ee1a7" "cfcfbd70-c9e4-11f0-8215-bb88152ee1a7" "d02c3550-c9e4-11f0-8215-bb88152ee1a7" "de3001e0-c9e4-11f0-8215-bb88152ee1a7" "dec87150-c9e4-11f0-8215-bb88152ee1a7" "dfd91e00-c9e4-11f0-8215-bb88152ee1a7" "e0a45d40-c9e4-11f0-8215-bb88152ee1a7" "fd3a7ac0-c9e4-11f0-8215-bb88152ee1a7" "1e49eb60-c9e5-11f0-8215-bb88152ee1a7" "206af6a0-c9e5-11f0-8215-bb88152ee1a7" "21323e40-c9e5-11f0-8215-bb88152ee1a7" "268b9120-c9e5-11f0-8215-bb88152ee1a7" "2952ee82-c9e5-11f0-8215-bb88152ee1a7" "316742b0-c9e5-11f0-8215-bb88152ee1a7" "3411c940-c9e5-11f0-8215-bb88152ee1a7" "345b2e50-c9e5-11f0-8215-bb88152ee1a7" "35ebe070-c9e5-11f0-8215-bb88152ee1a7" "367d23f0-c9e5-11f0-8215-bb88152ee1a7" "37819ba0-c9e5-11f0-8215-bb88152ee1a7" "37a920d0-c9e5-11f0-8215-bb88152ee1a7" "3a4af4d2-c9e5-11f0-8215-bb88152ee1a7" "3bb1d7d0-c9e5-11f0-8215-bb88152ee1a7" "3c9bc2a0-c9e5-11f0-8215-bb88152ee1a7" "3d030ff0-c9e5-11f0-8215-bb88152ee1a7" "5e9719e0-c9e5-11f0-8215-bb88152ee1a7" "5f025ed0-c9e5-11f0-8215-bb88152ee1a7" "61cca260-c9e5-11f0-8215-bb88152ee1a7" "63f74a90-c9e5-11f0-8215-bb88152ee1a7" "6470e760-c9e5-11f0-8215-bb88152ee1a7" "653f0cd0-c9e5-11f0-8215-bb88152ee1a7" "661a0380-c9e5-11f0-8215-bb88152ee1a7" "67a07c70-c9e5-11f0-8215-bb88152ee1a7" "6b194f80-c9e5-11f0-8215-bb88152ee1a7" "6bee52c0-c9e5-11f0-8215-bb88152ee1a7" "6df67ed0-c9e5-11f0-8215-bb88152ee1a7" "6fc12cb0-c9e5-11f0-8215-bb88152ee1a7" "700a1c90-c9e5-11f0-8215-bb88152ee1a7" "7198d2e0-c9e5-11f0-8215-bb88152ee1a7" "71db3310-c9e5-11f0-8215-bb88152ee1a7" "97153a92-c9e5-11f0-8215-bb88152ee1a7" "9b20fed0-c9e5-11f0-8215-bb88152ee1a7" "9c183010-c9e5-11f0-8215-bb88152ee1a7" "9c887e10-c9e5-11f0-8215-bb88152ee1a7" "9e102f80-c9e5-11f0-8215-bb88152ee1a7" "9e59bba0-c9e5-11f0-8215-bb88152ee1a7" "bc803d22-c9e5-11f0-8215-bb88152ee1a7" "bfe7d220-c9e5-11f0-8215-bb88152ee1a7" "c03afb30-c9e5-11f0-8215-bb88152ee1a7" "c06dcb00-c9e5-11f0-8215-bb88152ee1a7" "c2092b80-c9e5-11f0-8215-bb88152ee1a7" "c2599570-c9e5-11f0-8215-bb88152ee1a7" "c5d99472-c9e5-11f0-8215-bb88152ee1a7" "c7475540-c9e5-11f0-8215-bb88152ee1a7" "c8785b30-c9e5-11f0-8215-bb88152ee1a7" "c89afe60-c9e5-11f0-8215-bb88152ee1a7" "c94b62a0-c9e5-11f0-8215-bb88152ee1a7" "c98b9ff0-c9e5-11f0-8215-bb88152ee1a7" "cd947e00-c9e5-11f0-8215-bb88152ee1a7" "d9ab6eb0-c9e5-11f0-8215-bb88152ee1a7" "fcdb0030-c9e5-11f0-8215-bb88152ee1a7" "ff5cf020-c9e5-11f0-8215-bb88152ee1a7" "17fad160-c9e6-11f0-8215-bb88152ee1a7" "21394db0-c9e6-11f0-8215-bb88152ee1a7" "2a029a00-c9e6-11f0-8215-bb88152ee1a7" "2f58b890-c9e6-11f0-8215-bb88152ee1a7" "42ff3d10-c9e6-11f0-8215-bb88152ee1a7" "466a5480-c9e6-11f0-8215-bb88152ee1a7" "50e06670-c9e6-11f0-8215-bb88152ee1a7" "522eb860-c9e6-11f0-8215-bb88152ee1a7" "52786b90-c9e6-11f0-8215-bb88152ee1a7" "53a8d540-c9e6-11f0-8215-bb88152ee1a7" "54192340-c9e6-11f0-8215-bb88152ee1a7" "560a1dd0-c9e6-11f0-8215-bb88152ee1a7" "57cd9fc0-c9e6-11f0-8215-bb88152ee1a7" "59ac98f0-c9e6-11f0-8215-bb88152ee1a7" "5a4ca980-c9e6-11f0-8215-bb88152ee1a7" "5c9ba290-c9e6-11f0-8215-bb88152ee1a7" "5e4a3cf0-c9e6-11f0-8215-bb88152ee1a7" "5ea3a790-c9e6-11f0-8215-bb88152ee1a7" "60290f10-c9e6-11f0-8215-bb88152ee1a7" "6099ab30-c9e6-11f0-8215-bb88152ee1a7" "60ce28b0-c9e6-11f0-8215-bb88152ee1a7" "6180fdf0-c9e6-11f0-8215-bb88152ee1a7" "6cdd5130-c9e6-11f0-8215-bb88152ee1a7" "6e5cec50-c9e6-11f0-8215-bb88152ee1a7" "6edd18d0-c9e6-11f0-8215-bb88152ee1a7" "7079d8e0-c9e6-11f0-8215-bb88152ee1a7" "70d34380-c9e6-11f0-8215-bb88152ee1a7" "784193b0-c9e6-11f0-8215-bb88152ee1a7" "83adec80-c9e6-11f0-8215-bb88152ee1a7" "21412070-c9e7-11f0-8215-bb88152ee1a7" "22d04bf0-c9e7-11f0-8215-bb88152ee1a7" "231d5a80-c9e7-11f0-8215-bb88152ee1a7" "33322cc0-c9e7-11f0-8215-bb88152ee1a7" "4246cd10-c9e7-11f0-8215-bb88152ee1a7" "42bbaef0-c9e7-11f0-8215-bb88152ee1a7" "4c349c30-c9e7-11f0-8215-bb88152ee1a7")}}
+:block/updated-at 1764066044825
 :block/created-at 1764064000330
 :block/type "whiteboard"
 :block/name "69257b00-796a-463c-ad78-f22c7954929c"
